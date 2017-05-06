@@ -1,0 +1,31 @@
+Calculate Books Discount based on the set of books ordered
+
+if 5 set of books ordered => 50% discount
+if 4 set of books ordered => 40% discount
+if 3 set of books ordered => 20% discount
+if 2 set of books ordered => 10% discount
+if 1 set of books ordered => No Discount
+
+Ex: 
+BookName => Number oF Books
+
+VOL1 => 2,
+VOL2 => 2,
+VOL3 => 1,
+VOL4 => 1,
+VOL5 => 1
+
+so, the grouping should be
+
+5 set of books 1 group => 
+VOL1 => 1,
+VOL2 => 1,
+VOL3 => 1,
+VOL4 => 1,
+VOL5 => 1
+and, 2 set of books as one group 
+VOL1 => 1,
+VOL2 => 1,
+
+so the price should be  (5*200) => 50 % discount => 500  + (2*200)=>10% discount => 360
+500+360 => 860 , final Price is 860
