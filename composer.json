@@ -1,0 +1,14 @@
+{
+    "name": "kuttitasks/php",
+    "description": "PHP Reference taks",
+    "require-dev": {
+        "phpunit/phpunit": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Vivek",
+            "email": "vivek.s@saleswarp.com"
+        }
+    ],
+    "require": {}
+}
