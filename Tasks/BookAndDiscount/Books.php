@@ -1,6 +1,5 @@
 <?php
-ini_set('display_errors', true);
-
+namespace KuttiTasks\PHP\BookAndDiscount;
 class Books {
 	public static $list = [
 		'ps_v1' => 'Ponniyin Selven Vol1',

@@ -10,5 +10,10 @@
     },
     "include-path": [
         "vendors/phpunit/phpunit"
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "KuttiTasks\\PHP\\": "Tasks"
+        }
+    }
 }

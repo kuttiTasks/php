@@ -19,6 +19,10 @@ class ComposerStaticInit2e738c65096461e7babfea8af064aa14
         array (
             'Symfony\\Component\\Yaml\\' => 23,
         ),
+        'K' => 
+        array (
+            'KuttiTasks\\PHP\\' => 15,
+        ),
         'F' => 
         array (
             'Faker\\' => 6,
@@ -43,6 +47,10 @@ class ComposerStaticInit2e738c65096461e7babfea8af064aa14
         'Symfony\\Component\\Yaml\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/yaml',
+        ),
+        'KuttiTasks\\PHP\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Tasks',
         ),
         'Faker\\' => 
         array (
