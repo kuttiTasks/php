@@ -1,4 +1,6 @@
 {
+    "name": "kuttitasks/php",
+    "description": "PHP Reference taks",
     "config": {
         "vendor-dir": "vendors"
     },
