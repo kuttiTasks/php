@@ -1,6 +1,7 @@
 {
     "name": "kuttitasks/php",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "version":"1.0",
     "description": "PHP Reference taks",
     "config": {
         "vendor-dir": "vendors"
